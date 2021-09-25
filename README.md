@@ -1,0 +1,2 @@
+# 2021iFLYTEK_UserPortrait_Rank6
+科大讯飞 基于用户画像的商品推荐挑战赛
