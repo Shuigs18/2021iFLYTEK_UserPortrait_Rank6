@@ -1,0 +1,8 @@
+pandarallel==1.5.2
+scipy==1.6.0
+gensim==4.0.1
+tensorflow_gpu==2.4.0
+numpy==1.19.5
+pandas==1.2.0
+scikit_learn==1.0
+tensorflow==2.6.0
